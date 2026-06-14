@@ -6,6 +6,7 @@ SkyRivo is a native Android weather app that lets users search weather by city o
 
 The app is a strong portfolio project because it shows practical mobile product engineering: clean package organization, real API consumption, reactive UI state, saved user preferences, location-aware behavior, and modern Android build tooling.
 
+<img width="219" height="490" alt="skyrivo1" src="https://github.com/user-attachments/assets/0e51128d-e13b-4656-bdea-95a053d32b15" />
 ---
 
 ## Why This Project Matters
