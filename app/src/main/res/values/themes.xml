@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.SkyRivo" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/skyrivo_bg</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/skyrivo_bg</item>
+        <item name="android:statusBarColor">@color/skyrivo_bg</item>
+    </style>
+</resources>
